@@ -4,7 +4,7 @@ body {
 p {
     color: rgb(177, 27, 27);
     width: 200px;
-    border: 1px solid black;
+    border: 1px solid rgb(137, 84, 187);
   }
 
 p, li, h1, h2{
