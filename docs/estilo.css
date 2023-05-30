@@ -1,8 +1,12 @@
 body {
-    background-color: deeppink;
+    background-color: rgb(255, 20, 204);
 }
+p {
+    color: red;
+    width: 200px;
+    border: 1px solid black;
+  }
 
-P{
-    color: deeppink;
-}
-
+p, li, h1 {
+    color: red;
+  }
